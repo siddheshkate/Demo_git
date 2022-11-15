@@ -1,1 +1,2 @@
 2nd file on remote repository
+pull from remote to local
